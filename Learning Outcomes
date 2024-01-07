@@ -1,0 +1,26 @@
+Reflections
+
+Learned - dataset preparation technique
+Overcomed Challenges - could not find the exact dataset to fit the case study needs, self create data columns with reasonable values that simulate real-world scenario in python 
+
+Learned - talend data integration 
+Overcomed Challenges - setting the right schema and data types for the system to work
+
+Learned - talend data prep
+Overcomed Challenges - hands-on experience, profiling variables to data cleaning.
+Learning Outcome - easy user interface, but not efficient for large variability dataset. for example the state imputation with postal code, if we have 50 postal code, we need to apply filtering 50 times to complete the imputation.
+
+Learned - SAS Enterprise Miner
+Overcomed Challenges - built decision trees, bagging, and boosting models. understood the importance of setting variables correctly for effective model construction. 
+Experience - unable to get the decision tree to branch out at first, try out different configuration for the best model. 
+
+Learned - model evaluation and comparison
+Overcomed Challenges - Interpreted metrics such as misclassification rate and average squared error. 
+Experience - the case study is not the best example for picking the best model as all the models have scores very close to one another. the effect of bagging, boosting and ensembling models cannot be seen explicitly
+
+Learned - business strategy development
+Overcomed Challenges - linked model outcomes to specific business actions, formulate strategies to enhance customer loyalty, reduce churn and target specific customer segments. crucial as a data scientist
+
+Learned - documentation skills
+Overcomed Challenges - how to document a clear and concise reports for a case study utilising multiple softwares
+
